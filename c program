@@ -1,0 +1,8 @@
+#include<Stdio.h>
+int  main(){
+    int a,b;
+    a=5;
+    b=10;
+    printf("The value of a is: %d andThe value of b is: %d",a ,b);
+    return 0;
+}
